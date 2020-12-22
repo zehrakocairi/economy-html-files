@@ -1449,7 +1449,7 @@ li {
 }
 
 .default-section .text-column .text strong {
-  color: #222222;
+  color: #6c7b8d;
   font-weight: 600;
 }
 
@@ -2112,7 +2112,6 @@ li {
 .team-section {
   position: relative;
   background: #ffffff;
-  padding: 100px 0px;
 }
 
 .team-member {
@@ -2171,7 +2170,7 @@ li {
   width: 100%;
   height: 100%;
   color: #ffffff;
-  background: #43a8f0;
+  background: #6c7b90;
   transition: all 300ms ease;
   -moz-transition: all 300ms ease;
   -webkit-transition: all 300ms ease;
@@ -2441,7 +2440,6 @@ li {
 
 .blog-news-section {
   position: relative;
-  padding: 90px 0px;
 }
 
 .blog-news-section .blog-news-column {
@@ -2463,11 +2461,11 @@ li {
 }
 
 .blog-news-column:hover .image-box img {
-  -webkit-transform: scale(1.05, 1.05) rotate(-2deg);
-  -ms-transform: scale(1.05, 1.05) rotate(-2deg);
-  -o-transform: scale(1.05, 1.05) rotate(-2deg);
-  -moz-transform: scale(1.05, 1.05) rotate(-2deg);
-  transform: scale(1.05, 1.05) rotate(-2deg);
+  -webkit-transform: scale(1.05, 1.05) rotate(0deg);
+  -ms-transform: scale(1.05, 1.05) rotate(0deg);
+  -o-transform: scale(1.05, 1.05) rotate(0deg);
+  -moz-transform: scale(1.05, 1.05) rotate(0deg);
+  transform: scale(1.05, 1.05) rotate(0deg);
 }
 
 .blog-news-column .image-box .news-date {

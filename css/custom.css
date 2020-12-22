@@ -31,3 +31,13 @@
   left: 90px;
   width: 220px;
 }
+
+.image-box {
+  -webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+.default-section .text strong {
+  font-weight: 400;
+  font-size: 21px;
+}
