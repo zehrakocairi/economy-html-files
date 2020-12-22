@@ -1,0 +1,33 @@
+.q-mx-md {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.orion-logo {
+  width: 150px;
+}
+.subscribe-intro a.more {
+  font-size: 20px;
+  line-height: 1.31;
+  border-bottom: solid 1px;
+  font-weight: 600;
+  color: #435d98;
+  font-family: "HelveticaNeue-Medium", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+.subscribe-intro h2.title {
+  font-size: 42px;
+  line-height: 1.32579;
+  font-family: "Copernicus", Georgia, serif;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.subscribe-intro .statement {
+  padding: 0 0 0 33%;
+  position: relative;
+}
+.subscribe-intro .statement .orion-logo {
+  position: absolute;
+  top: 5px;
+  left: 90px;
+  width: 220px;
+}
