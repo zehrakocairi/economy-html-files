@@ -105,7 +105,7 @@ h4,
 h5,
 h6 {
   position: relative;
-  font-family: "Merriweather", serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: normal;
   margin: 0px;
   background: none;
@@ -2239,15 +2239,15 @@ li {
 .team-member .social-links a {
   position: relative;
   display: inline-block;
-  width: 34px;
-  height: 34px;
-  font-size: 14px;
+  width: 27px;
+  height: 27px;
+  font-size: 13px;
   margin: 0px 3px 5px;
-  line-height: 32px;
+  line-height: 25px;
   text-align: center;
-  border: 1px solid #404040;
-  background: #404040;
-  color: #ffffff;
+  border: 2px solid #6c7b90;
+  background: none;
+  color: #6c7b90;
   transition: all 300ms ease;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
@@ -2256,9 +2256,8 @@ li {
 }
 
 .team-member .social-links a:hover {
-  background-color: #43a8f0;
+  background-color: #6c7b90;
   color: #ffffff;
-  border-color: #43a8f0;
 }
 
 .team-member .text {
@@ -3239,7 +3238,7 @@ li {
 
 .sidebar-page-container {
   position: relative;
-  padding: 100px 0px 70px;
+  padding: 80px 0px 0px;
 }
 
 .sidebar-page-container .sidebar,
@@ -4048,7 +4047,7 @@ blockquote.style-one {
   font-weight: 700;
   display: block;
   text-transform: capitalize;
-  font-family: "Merriweather", serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .sidebar-page-container .comments-area .comment-info .comment-time {
@@ -4682,7 +4681,7 @@ blockquote.style-two {
   border: none;
   font-style: italic;
   font-size: 17px;
-  font-family: "Merriweather", serif;
+  font-family: "Montserrat", sans-serif;
   color: #555555;
   line-height: 30px;
   padding: 25px 30px;

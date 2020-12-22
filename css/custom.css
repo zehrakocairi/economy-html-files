@@ -6,18 +6,17 @@
   width: 150px;
 }
 .subscribe-intro a.more {
-  font-size: 20px;
   line-height: 1.31;
   border-bottom: solid 1px;
   font-weight: 600;
   color: #435d98;
-  font-family: "HelveticaNeue-Medium", "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-size: 1.7rem;
+  font-family: "Montserrat", sans-serif;
 }
 .subscribe-intro h2.title {
-  font-size: 42px;
+  font-size: 3.5rem;
   line-height: 1.32579;
-  font-family: "Copernicus", Georgia, serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   margin-bottom: 20px;
 }
@@ -39,5 +38,15 @@
 }
 .default-section .text strong {
   font-weight: 400;
-  font-size: 21px;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+}
+.default-section .top-text {
+  margin-bottom: 0px;
+}
+.default-title {
+  padding-bottom: 0;
+}
+.default-title:after {
+  border-bottom: 1px solid #43a8f0;
 }
