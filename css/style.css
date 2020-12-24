@@ -2288,10 +2288,11 @@ li {
   width: 36px !important;
   height: 36px !important;
   padding: 0px !important;
-  background: #4a4b4b !important;
-  color: #ffffff !important;
+  background: white !important;
+  color: gray !important;
   line-height: 36px;
   font-size: 20px !important;
+  border: 1px solid lightgray;
   -webkit-transition: all 500ms ease;
   -ms-transition: all 500ms ease;
   -moz-transition: all 500ms ease;
@@ -2300,7 +2301,8 @@ li {
 
 .team-section .owl-controls .owl-next:hover,
 .team-section .owl-controls .owl-prev:hover {
-  background: #43a8f0 !important;
+  background: black !important;
+  color: white !important;
 }
 
 .team-section .owl-controls .owl-prev {
@@ -2480,6 +2482,7 @@ li {
   color: #ffffff;
   font-weight: 600;
   background: #43a8f0;
+  visibility: hidden;
 }
 
 .blog-news-column .image-box .news-date .month {
@@ -3172,7 +3175,7 @@ li {
 
 .page-title {
   position: relative;
-  padding: 100px 0px 60px;
+  padding: 150px 0px 120px;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;

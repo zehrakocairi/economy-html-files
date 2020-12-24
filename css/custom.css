@@ -50,3 +50,106 @@
 .default-title:after {
   border-bottom: 1px solid #43a8f0;
 }
+.author-box .avatars {
+  margin-bottom: 20px;
+}
+.author-box .avatars .avatar {
+  border-radius: 140px;
+}
+.author-box .author-details a {
+  text-decoration: none;
+  color: #191919;
+  font-size: 22px;
+  font-weight: 500;
+}
+.author-details .authors {
+  margin: 0 0 5px;
+}
+.author-details .type {
+  margin: 0 0 45px;
+}
+.publication-meta .date,
+.publication-meta .publication-name {
+  text-decoration: none;
+  color: #989898;
+  font-size: 15px;
+  font-weight: 600;
+}
+.publication-meta .publication-name {
+  margin-bottom: 20px;
+}
+.topics-meta .subheading-meta {
+  font-size: 15px;
+  font-weight: 700;
+  color: #656565;
+}
+.metadata ul {
+  margin-bottom: 15px;
+}
+.metadata a {
+  text-decoration: none;
+  color: #989898;
+  font-size: 15px;
+  font-weight: 400;
+}
+.social-meta a {
+  display: inline-block;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  color: #b0b0b0;
+  border-radius: 50%;
+  background: #f4f4f4;
+}
+.social-meta li {
+  margin-bottom: 5px;
+}
+.topics-meta a {
+  text-decoration: none;
+  color: #989898;
+  font-size: 15px;
+  font-weight: 400;
+}
+.post-author a:hover {
+  color: #43a8f0;
+}
+.pagination a {
+  float: left;
+  padding: 0 18px;
+  line-height: 40px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-left-width: 0;
+  background: #fff;
+}
+.pagination a:hover {
+  background-color: #232323;
+  color: #fff;
+}
+.pagination .active a {
+  color: #999999;
+  cursor: default;
+  background-color: #f5f5f5;
+}
+.pagination li:first-child a {
+  border-left-width: 1px;
+}
+ul.hide-space {
+  font-size: 0;
+}
+.pagination-bar li {
+  display: inline-block;
+  font-size: 13px;
+}
+.pagination-bar li a {
+  color: #6f6f6f;
+}
+.post-date {
+  color: #6c7b90;
+  font-style: italic;
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  line-height: 24px;
+}
